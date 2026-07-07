@@ -1,0 +1,12 @@
+html{
+    background-color: green;
+}
+h1{
+    font-weight: bold; 
+    text-decoration: italic;
+    color: gray;
+}
+p{
+    font-size: 20px;
+    color: red;
+}
