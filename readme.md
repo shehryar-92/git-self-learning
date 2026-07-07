@@ -1,5 +1,5 @@
 # Version Control Learning
-  -I am learning version control Using git and Github. through "**Codedex.io**"
+  -I am learning version control Using git and Github from "**Codedex.io**"
 
 # git init
   -For initilaizing the local repo in our terminal etc for versioning.
@@ -7,9 +7,9 @@
   -For naming the branch
 # git add .
   -For all files
-  # or the file
-    -If adding a specific file
-  # or like *.js
+  # or the git add index.html
+    -If adding a specific html file
+  # or like git add *.js
     -For all files with js extension. 
 # git remote add origin "repo link from github"
   -For connecting local git repo to online github repo
