@@ -31,6 +31,10 @@
 -
 -one will hae 2 step first creation and then switching
 -second will create and switch immediately and if already created remove **-b**
-Way one | way Two
-git branch "name of it" | git checkout -b "Name of it"
-git switch "name of it" |     
+
+
+| Method | Command One | Command Two |
+| :--- | :--- | :--- |
+| **Way One** | git branch "name of it" | git switch "name of it" |
+| **Way Two** | git checkout -b "Name of it" | |
+
