@@ -24,3 +24,13 @@
   # git config --global user.email "you@example.com"
   # git config --global user.name "Your Name"
 # learned above till 7 july 2026
+
+**Branches are useful to keep the code safe especially main one safe**
+# Making branches
+-There are two ways of doing that
+-
+-one will hae 2 step first creation and then switching
+-second will create and switch immediately and if already created remove **-b**
+Way one | way Two
+git branch "name of it" | git checkout -b "Name of it"
+git switch "name of it" |     
