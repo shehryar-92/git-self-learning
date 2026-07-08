@@ -11,6 +11,8 @@
     -If adding a specific html file
   # or like git add *.js
     -For all files with js extension. 
+# git commit -m "Message here"
+-used for commiting the code in the local repo before pushing later
 # git remote add origin "repo link from github"
   -For connecting local git repo to online github repo
 # git status
